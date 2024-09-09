@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Simple Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #000;
+            color: black;
+            padding: 10px;
+            text-align: center;
+        }
+        nav {
+            background-color: #000;
+            padding: 10px;
+        }
+        nav a {
+            color: black;
+            text-decoration: none;
+            padding: 10px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #000;
+            color: black;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>p5🧏🏿‍♂️🧏🏿‍♂️🧏🏿‍♂️🧏🏿‍♂️🧏🏿‍♂️</h1>
+</header>
+
+<nav>
+    <a href=#p5🧏🏿‍♂️🧏🏿‍♂️🧏🏿‍♂️#
+</nav>
